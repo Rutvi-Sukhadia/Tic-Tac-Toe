@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading">Let\'s Play Tic-Tac-Toe</string>
+    <string name="grid">Grid</string>
+    <string name="img_zero_x">Zero or X image</string>
+    <string name="reset_button">Reset</string>
+</resources>
